@@ -1,0 +1,11 @@
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Source\TetrisUSFX01/PBuilder/ConstructorBloqueFuego.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Source\TetrisUSFX01\PBuilder\BloqueGeneral.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Source\TetrisUSFX01\PBuilder\PlanoBloque.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PlanoBloque.generated.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BloqueGeneral.generated.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Source\TetrisUSFX01\PBuilder\ConstructorBloque.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\ConstructorBloque.generated.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\ConstructorBloqueFuego.generated.h

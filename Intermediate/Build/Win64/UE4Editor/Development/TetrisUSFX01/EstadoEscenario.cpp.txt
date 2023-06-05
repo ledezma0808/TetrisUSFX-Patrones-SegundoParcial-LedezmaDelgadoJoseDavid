@@ -1,0 +1,3 @@
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Source\TetrisUSFX01\PState\EstadoEscenario.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\EstadoEscenario.generated.h

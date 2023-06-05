@@ -1,0 +1,7 @@
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Source\TetrisUSFX01/PState/EstadoTarde.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Source\TetrisUSFX01\PState\EstadoEscenario.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\EstadoEscenario.generated.h
+D:\Segundo Parcial Programacion\CodIng\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\EstadoTarde.generated.h

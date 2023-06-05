@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TetrisUSFX01E.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0A7BFF17-1A7A-4D71-8F99-DF27312CC786}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TetrisUSFX01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TetrisUSFX01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{5A7F5F8A-CC6C-4011-B406-5D6BAB62723D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TetrisUSFX01">
+      <UniqueIdentifier>{87197DD8-B1EC-4FE3-8986-BE12792C2DB8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Block.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Block.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Board.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Board.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Piece.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Piece.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.Build.cs">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\TetrisUSFX01GameModeBase.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\TetrisUSFX01GameModeBase.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <Filter Include="Source\TetrisUSFX01\PAdapter">
+      <UniqueIdentifier>{BC25055B-11DA-47E3-B302-CE513307702D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PAdapter\AdaptadorMovimientoAleatorio_CA.cpp">
+      <Filter>Source\TetrisUSFX01\PAdapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PAdapter\AdaptadorMovimientoAleatorio_CA.h">
+      <Filter>Source\TetrisUSFX01\PAdapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PAdapter\MovimientoAleatorio.cpp">
+      <Filter>Source\TetrisUSFX01\PAdapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PAdapter\MovimientoAleatorio.h">
+      <Filter>Source\TetrisUSFX01\PAdapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PAdapter\MovimientoAleatorio_CA.cpp">
+      <Filter>Source\TetrisUSFX01\PAdapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PAdapter\MovimientoAleatorio_CA.h">
+      <Filter>Source\TetrisUSFX01\PAdapter</Filter>
+    </ClInclude>
+    <Filter Include="Source\TetrisUSFX01\PBuilder">
+      <UniqueIdentifier>{5D3767ED-537F-406A-A854-668B5A32A133}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PBuilder\BloqueGeneral.cpp">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PBuilder\BloqueGeneral.h">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PBuilder\ConstructorBloque.cpp">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PBuilder\ConstructorBloque.h">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PBuilder\ConstructorBloqueColorido.cpp">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PBuilder\ConstructorBloqueColorido.h">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PBuilder\ConstructorBloqueFuego.cpp">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PBuilder\ConstructorBloqueFuego.h">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PBuilder\ConstructorBloqueHielo.cpp">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PBuilder\ConstructorBloqueHielo.h">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PBuilder\IngenieroBloque.cpp">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PBuilder\IngenieroBloque.h">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PBuilder\PlanoBloque.cpp">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PBuilder\PlanoBloque.h">
+      <Filter>Source\TetrisUSFX01\PBuilder</Filter>
+    </ClInclude>
+    <Filter Include="Source\TetrisUSFX01\PSingleton">
+      <UniqueIdentifier>{12581382-6B7A-4522-8031-CE59F1600157}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PSingleton\SingletonObjeto.cpp">
+      <Filter>Source\TetrisUSFX01\PSingleton</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PSingleton\SingletonObjeto.h">
+      <Filter>Source\TetrisUSFX01\PSingleton</Filter>
+    </ClInclude>
+    <Filter Include="Source\TetrisUSFX01\PState">
+      <UniqueIdentifier>{BF523BA0-EDB1-4133-9DED-1D4F3ED02803}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PState\Escenario.cpp">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PState\Escenario.h">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PState\EstadoEscenario.cpp">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PState\EstadoEscenario.h">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PState\EstadoManana.cpp">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PState\EstadoManana.h">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PState\EstadoNoche.cpp">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PState\EstadoNoche.h">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\PState\EstadoTarde.cpp">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\PState\EstadoTarde.h">
+      <Filter>Source\TetrisUSFX01\PState</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
